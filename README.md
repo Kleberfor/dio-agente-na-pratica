@@ -74,24 +74,41 @@ Objetivo: [tirar uma ideia do papel].
 
 ## Minha entrega
 
-Edite este README pelo lápis, role até aqui e cole (Ctrl+V) um print de cada passo, sem dados pessoais.
+
 
 ### Configure
 
-_Cole o print do DIO Agent se apresentando._
+
+<img width="851" height="470" alt="Captura de Tela 2026-11-09 às 12 28 35" src="https://github.com/user-attachments/assets/6b222278-9b81-40a3-bdf9-0143982fff5b" />
+
 
 ### Estudar
 
-_Cole o print da explicação._
+<img width="887" height="883" alt="Captura de Tela 2026-11-09 às 12 31 53" src="https://github.com/user-attachments/assets/5a62d22f-fc8f-4943-9447-7281f4f97995" />
 
 ### Praticar
 
-_Cole o print da dica que destravou você._
+
+<img width="761" height="838" alt="Captura de Tela 2026-11-09 às 12 38 41" src="https://github.com/user-attachments/assets/ae056fdb-1a0c-4290-b73e-ec6678847655" />
+
 
 ### Planejar
 
-_Cole o print do seu plano de estudos._
+<img width="1362" height="915" alt="Captura de Tela 2026-11-09 às 12 51 52" src="https://github.com/user-attachments/assets/3a30f7d0-6044-4dbc-9a65-80a2ae5e4f14" />
+<img width="1003" height="911" alt="Captura de Tela 2026-11-09 às 12 52 41" src="https://github.com/user-attachments/assets/dd075eb9-8a09-4ed0-aa18-904c5af6f1b0" />
+<img width="954" height="560" alt="Captura de Tela 2026-11-09 às 12 53 00" src="https://github.com/user-attachments/assets/bb6ab26a-f5a0-497f-bd8d-d5579670f9cc" />
+
 
 ### Como foi para você
 
-_Conte em poucas linhas como foi usar o DIO Agent pela primeira vez._
+### Como foi para você
+
+Neste desafio, configurei o DIO Agent utilizando o Codex como Harness e explorei suas Skills de estudo, prática e planejamento de carreira.
+
+Minha experiência anterior com inteligência artificial, marketing digital e automações permitiu compreender rapidamente a proposta do agente. O principal aprendizado foi observar como instruções estruturadas, contexto e Skills podem transformar uma interação com IA em um processo de orientação mais consistente.
+
+Na atividade de prática, utilizei o agente para analisar um problema de programação por meio de dicas graduais. No planejamento, apresentei meu objetivo de conquistar a certificação AI Builder e desenvolver competências tanto para empreender com soluções de IA quanto para atuar profissionalmente em empresas.
+
+O agente apresentou uma proposta de evolução por formações, competências e entregáveis, que poderei comparar com meu Planner no Notion.
+
+Este desafio representa uma etapa de formalização e aprofundamento de conhecimentos que já venho aplicando profissionalmente, além de contribuir para a construção de evidências práticas da minha formação em inteligência artificial.
